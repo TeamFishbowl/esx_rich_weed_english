@@ -82,5 +82,3 @@ Config.ZoneF4 = {
 Config.ZoneM4 = {
 	WeedFarmMenu4 = 	 { x =  1050.33, y = -3196.26, z = -39.14  },
 }
-
-
