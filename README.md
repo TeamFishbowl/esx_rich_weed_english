@@ -1,6 +1,6 @@
-#######################################
-###########ORIGENAL README#############
-#######################################
+
+#####ORIGENAL README#######
+
 **Showcase:** https://youtu.be/wfae_AQmLtY
 
 ## Description
@@ -31,15 +31,15 @@ License
 This is under the MIT License, which is basically the most permissive widely used license out there. If you release a derivative work, include credit to the linked GitHub so others know where to find the rest (unless you make significant alterations, in which case you can do whatever you feel like doing).
 
 
-#######################################
-###########FISHBOWL EDIT#############
-#######################################
+
+######FISHBOWL EDIT#######
+
 
 Translated to english.
 
-Also changed the harvested item to "weed". Reason for this is because i have removed the harvesting weed section from esx_illegal_drugs and replaced it with this, but kept the processing weed and selling weed from esx_illegal_drugs. 
+Also changed the harvested item to "weed". Reason for this is because i have removed the harvesting weed section from esx_illegal_drugs and replaced it with this, but kept the processing weed and selling weed from esx_illegal_drugs.
 
-I take no credit what so ever for the creation of the origenal script. i offer no support for the usage of this script or this edit.
+I take no credit what so ever for the creation of the origenal script. i offer no support for the usage of this script or this edit, however keep in mind the changes you may need to make to your database for this to work for you, keep in mind i am using this in conjunction with esx_illegal_drugs
 Origenal links : 
 
 https://forum.fivem.net/t/release-esx-rich-weed-simple-weed-farming-script/774306
